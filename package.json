@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-18n-bug-demo",
+  "version": "1.0.0",
+  "description": "My smashing Nuxt.js project",
+  "author": "Lei Xing",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "python-server": "cd dist/ && python3 -m http.server 8888"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^6.8.1"
+  },
+  "devDependencies": {}
+}

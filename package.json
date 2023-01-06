@@ -12,7 +12,7 @@
     "python-server": "cd dist/ && python3 -m http.server 8888"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-i18n": "^6.8.1"
   },
   "devDependencies": {}
